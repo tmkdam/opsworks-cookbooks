@@ -5,6 +5,7 @@ DEPENDENCIES
     metadata: true
   redis (~> 3.0.4)
   resque (~> 3.0.4)
+  runit (~> 1.7.8)
 
 GRAPH
   apt (4.0.1)
